@@ -1,0 +1,24 @@
+{
+  "name": "node_kurs",
+  "version": "1.0.0",
+  "description": "just a test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erisee92/node_kurs.git"
+  },
+  "author": "erik boege",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erisee92/node_kurs/issues"
+  },
+  "homepage": "https://github.com/erisee92/node_kurs",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.2"
+  }
+}
